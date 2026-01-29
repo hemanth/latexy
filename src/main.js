@@ -1,5 +1,5 @@
 /**
- * Latexy - AI-Powered LaTeX Editor
+ * LaTeXy - AI-Powered LaTeX Editor
  * Main Application Entry Point
  */
 
@@ -302,13 +302,13 @@ const state = {
 
 \\begin{document}
 
-\\section*{What is Latexy?}
+\\section*{What is LaTeXy?}
 
-\\textbf{Latexy} is an AI-powered \\LaTeX{} editor for writing scientific documents. It supports real-time collaboration with coauthors and includes AI-powered intelligence to help you draft and edit text, reason through ideas, and handle formatting.
+\\textbf{LaTeXy} is an AI-powered \\LaTeX{} editor for writing scientific documents. It supports real-time collaboration with coauthors and includes AI-powered intelligence to help you draft and edit text, reason through ideas, and handle formatting.
 
 \\section*{Features}
 
-Latexy includes AI directly in the editor and can access your project, so you can ask it to do things like:
+LaTeXy includes AI directly in the editor and can access your project, so you can ask it to do things like:
 
 \\begin{itemize}
   \\item Write an abstract based on the rest of the paper
@@ -479,7 +479,7 @@ const LLM_ENDPOINTS = {
   ollama: '/api/chat'
 };
 
-const SYSTEM_PROMPT = `You are a helpful LaTeX assistant integrated into Latexy, an AI-powered LaTeX editor. 
+const SYSTEM_PROMPT = `You are a helpful LaTeX assistant integrated into LaTeXy, an AI-powered LaTeX editor. 
 
 Your capabilities:
 1. Help users write and edit LaTeX documents
@@ -1255,7 +1255,7 @@ function init() {
   initToolbar();
   initPackageManager();
 
-  console.log('Latexy initialized ✨');
+  console.log('LaTeXy initialized ✨');
 }
 
 // Start the app

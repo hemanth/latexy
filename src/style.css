@@ -1,5 +1,5 @@
 /* ========================================
-   Latexy - Design System & Styles
+   LaTeXy - Design System & Styles
    ======================================== */
 
 /* CSS Custom Properties */
@@ -1255,4 +1255,23 @@ body {
   font-size: 12px;
   color: var(--text-secondary);
   line-height: 1.5;
+}
+
+/* ========================================
+   Mobile Responsive
+   ======================================== */
+@media (max-width: 768px) {
+  .app-sidebar {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .chat-section {
+    order: 2;
+    margin-top: auto;
+  }
+
+  .sidebar-section:not(.chat-section) {
+    order: 1;
+  }
 }

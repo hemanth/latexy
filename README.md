@@ -1,8 +1,8 @@
-# Latexy
+# LaTeXy
 
 AI-powered LaTeX editor with live preview, intelligent autocompletion, and seamless PDF export.
 
-![Latexy Editor](screenshot.png)
+![LaTeXy Editor](screenshot.png)
 
 ## Features
 
