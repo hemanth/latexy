@@ -6,7 +6,7 @@ AI-powered LaTeX editor with live preview, intelligent autocompletion, and seaml
 
 ## Features
 
-- **Live Preview** - See your LaTeX render in real-time
+- **Live Preview** - See your LaTeX render in real-time with beautiful math typesetting
 - **AI Assistant** - Get help with LaTeX syntax and document improvements
 - **Smart Autocomplete** - Context-aware LaTeX suggestions
 - **PDF Export** - Download your documents instantly
