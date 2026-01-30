@@ -2,7 +2,7 @@
 
 AI-powered LaTeX editor with live preview, intelligent autocompletion, and seamless PDF export.
 
-![LaTeXy Editor](screenshot.png)
+https://github.com/user-attachments/assets/b8ed2e65-001f-4724-9063-f5427dee4662
 
 ## Features
 
